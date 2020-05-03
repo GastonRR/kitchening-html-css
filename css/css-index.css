@@ -13,6 +13,7 @@ body{
     margin-right: 35vw;
     top: 15px;
     border-radius: 50vw;
+    border: 1px solid #CACACA;
 }
 .toggle-nav{
     position: relative;
@@ -94,9 +95,6 @@ body{
     background-color: red;
     top: 3vh;
 }
-
-
-
 
 
 
