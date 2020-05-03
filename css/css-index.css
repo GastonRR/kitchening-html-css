@@ -4,6 +4,7 @@
 }
 body{
     background-image: url("../images/bg-body.png");
+    font-family: 'Roboto', sans-serif;
 }
 .logo{
     position: relative;
